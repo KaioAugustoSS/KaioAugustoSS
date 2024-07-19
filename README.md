@@ -1,5 +1,4 @@
-## Olá! me chamo Kaio Augusto, estudante de back-end, apaixonado por programação e tecnologia!
-
+## Olá! me chamo Kaio Augusto 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioAugustoSS&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioAugustoSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
