@@ -29,6 +29,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
+
 <div style="text-align: center;" align="center">
   <h3>GitHub Stats </h3>
   <br>
@@ -38,3 +39,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KaioAugustoSS&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=70a5fd&&hide=html,css&bg_color=1a1b27&text_color=38bdae&border_radius=3&border_color=70a5fd&count_private=true" alt="Most Used Languages">
   </a>
 </div>
+<div align="center" >
+    
+![Ashutosh's github activity graph](https://github.com/user-attachments/assets/61739363-14a8-461f-a51a-7753bb9c5a35)
+  <a href="https://github.com/Kaio/github-readme-stats">
