@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hello!+my+name+is+Kaio+Augusto;I'm+20+years+old;I'm+a+Software+Developer;I'm+from+Brazi" />
 </h1>
 
-
 <p align="center">Estudante de Ciencia da Computaçãona na Faculdade Anhembi Morumbi. Atualmente estou a procura de Estagios.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
