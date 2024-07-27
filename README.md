@@ -41,4 +41,4 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div align="center" >
     
 ![Ashutosh's github activity graph](https://github.com/user-attachments/assets/61739363-14a8-461f-a51a-7753bb9c5a35)
-  <a href="https://github.com/Kaio/github-readme-stats">
+  <a href="https://github.com/KaioAugustoSS/github-readme-stats">
