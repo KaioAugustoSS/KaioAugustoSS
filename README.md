@@ -34,7 +34,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KaioAugustoSS&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&border_radius=3&border_color=70a5fd&icon_color=bf91f3&theme=jolly" alt="GitHub stats">
 
-  <a href="https://github.com/Kaio/github-readme-stats">
+  <a href="https://github.com/KaioAugustoSS/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KaioAugustoSS&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=70a5fd&&hide=html,css&bg_color=1a1b27&text_color=38bdae&border_radius=3&border_color=70a5fd&count_private=true" alt="Most Used Languages">
   </a>
 </div>
